@@ -9,7 +9,7 @@
 
 * Self Closing Tags *
 - <meta> tag : Description of html page is given i.e. metadata of the web page
-- <link> tag : use to link different files and style sheets
+- ##<link> tag : use to link different files and style sheets
 
 Tags:
 
